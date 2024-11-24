@@ -1,0 +1,17 @@
+{
+  "usuario": [
+    {
+      "id": "299b",
+      "rut": "20.753.240-1",
+      "name": "ale peña",
+      "email": "ale.penaa@duocuc.cl",
+      "password": "pass1234",
+      "image": "",
+      "isActive": true
+    }
+  ],
+  "evento": [],
+  "comentario": [],
+  "asistencia": [],
+  "lista": []
+}
